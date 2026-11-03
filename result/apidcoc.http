@@ -1,0 +1,11 @@
+###
+POST http://127.0.0.1:8000/studentresult/
+Content-Type: application/json
+
+{
+    "name": "Angel",
+    "roll_number": 101,
+    "mark1": 85,
+    "mark2": 90,
+    "mark3": 80
+}
